@@ -12,6 +12,7 @@ Once installed, you are able to keep track of your matches (of course, it can be
 **New Revisions**
 - You can now view overall match numbers
 - Users can find out the runs that a team may be getting (i.e 7-0 run..)
+- A nice little (badly) designed icon 
 
 **Still to do**
 - [ ] Save/Reload matches
