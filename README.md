@@ -16,7 +16,7 @@ Once installed, you are able to keep track of your matches (of course, it can be
 **Still to do**
 - [ ] Save/Reload matches
 - [ ] Add a "Professional Match" option for Technical Timeouts at Designated 8 and 16 points.
-- [ ] Support different screen sizes (As of now, it only supports the iPhone 5, 5S and SE - iPhone 7 is okay).
+- [ ] Support different (plus and iPad) screen sizes (As of now, it only supports the iPhone 5, 5S and SE - iPhone 7 is okay).
 - [X] Improve the "about match" form (for scores and sets).
 
 <br />
