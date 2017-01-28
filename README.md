@@ -9,11 +9,15 @@ Once installed, you are able to keep track of your matches (of course, it can be
 - You can swap sides if required
 - You can reset match scores
 
+**New Revisions**
+- You can now view overall match numbers
+- Users can find out the runs that a team may be getting (i.e 7-0 run..)
+
 **Still to do**
 - [ ] Save/Reload matches
 - [ ] Add a "Professional Match" option for Technical Timeouts at Designated 8 and 16 points.
-- [ ] Support different screen sizes (As of now, it only supports the iPhone 5, 5S and SE).
-- [ ] Improve the "about match" form (for scores and sets).
+- [ ] Support different screen sizes (As of now, it only supports the iPhone 5, 5S and SE - iPhone 7 is okay).
+- [X] Improve the "about match" form (for scores and sets).
 
 <br />
-Note: I will probably never upload this to the app store as I can't afford the Developer fees. You can pull this project and install on your device, or if you would like a direct .ipa file - send me a message!
+Note: I will most likely **never** upload this to the app store as I can't afford the Developer enrolment fees. You can pull this project and install on your device, or if you would like a direct .ipa file - send me a message! Just note that the maximum days this app can last without stability issues is 7 days (you can re-install as many times as you want - or just enrol in Apple's Developer program).
