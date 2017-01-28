@@ -4,7 +4,7 @@ I'm a huge fan of the sport - I play it, and I do some officiating myself. But t
 <br />
 **What can this application do?**<br />
 Once installed, you are able to keep track of your matches (of course, it can be used universally for any sport that has singular numerical point system).
-- The app allows you to have custom team names
+- The app allows you to have custom team names (or leave blank for default names: Home, Away)
 - The app asks you for maximum sets per match, and points per set (or leave blank for default: 3 sets, 25 points).
 - You can swap sides if required
 - You can reset match scores
